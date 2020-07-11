@@ -12,21 +12,21 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Exploratory data analysis was conducted to check the effect of Entropy, Cummulative degree days, temporal lag and neighouring county cases on the incedence rate of current county and also to understand outliers
 - The packages used for visualization are matplotlib, bokeh, seaborn, plotly and ipywidgets
 - Several Statistical models were built including Random Forest, Zero-Inflated Poisson Regression, Long Short Term Memory networks and Seasonal ARIMA to forecast the WNV IR and the __LSTM model__ gave us an accuracy of more than __75%__
-
+---
 ### [2. Predicting mortality by Acute Lower Respiratory Diseases in Americas](https://github.com/vpb2/PracticalHealthData)
 - The main aim of this project was to understand the patterns of mortality caused by Acute Lower Respiratory Diseases and to predict the mortality rate for the year 2020 in Americas
 - The primary data was provided to us by WHO which included the mortality data for all diseases. This data was cleaned and processed using Python scripting to include only Acute Lower Respiratory Diseases
 - Several other indicators like population, number of physicians per 1000, and GDP data were integrated after downloading from data.world and processing it with python
 - Created Auto-ARIMA model to check the time-series validity of the indicators
 - Built Vector Autoregression model to perform Multivariate Time Series forecasting and predicted the death count for countries in the American continent with a __Mean Absolute Percentage Error of 0.0822__ 
-
+---
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD2.png "Mortality per year")
-
+---
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD3.png "Indicators for Mortality")
-
+---
 Forecast example for Argentina: 
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD.png "Predictions for Argentina")
-
+---
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
 - Aggregated data from multiple sources by web scraping and cleaned the data using OpenRefine
 - Performed exploratory analysis to verify expected relationships, identify patterns and outliers
