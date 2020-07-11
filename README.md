@@ -19,7 +19,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Several other indicators like population, number of physicians per 1000, and GDP data were integrated after downloading from data.world and processing it with python
 - Created Auto-ARIMA model to check the time-series validity of the indicators
 - Built Vector Autoregression model to perform Multivariate Time Series forecasting and predicted the death count for countries in the American continent with a __Mean Absolute Percentage Error of 0.0822__ 
----
+
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD2.png "Mortality per year")
 ---
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD3.png "Indicators for Mortality")
