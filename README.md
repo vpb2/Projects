@@ -10,7 +10,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - The data was collected from variety of sources like NARR, Census board, NASA (for weather) and so on. All the large scale-multi dimensional datasets were cleaned and processed using Python scripting and OpenRefine
 - The missing data points in Socio-economic features were imputed using __Vector Auto-Regression__ method
 - Exploratory data analysis was conducted to check the effect of Entropy, Cummulative degree days, temporal lag and neighouring county cases on the incedence rate of current county and also to understand outliers
-- The packages used for visualization are __matplotlib, bokeh, seaborn, plotly and ipywidgets__
+- The packages used for visualization are __matplotlib, bokeh, seaborn, plotly and ipywidgets__ 
 - Several Statistical models were built including __Random Forest, Zero-Inflated Poisson Regression, Long Short Term Memory networks__ and __Seasonal ARIMA__ to forecast the WNV IR and the __LSTM model__ gave us an accuracy of more than __75%__
 ---
 ### [2. Predicting mortality by Acute Lower Respiratory Diseases in Americas](https://github.com/vpb2/PracticalHealthData)
