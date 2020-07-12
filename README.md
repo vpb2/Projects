@@ -12,6 +12,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Exploratory data analysis was conducted to check the effect of Entropy, Cummulative degree days, temporal lag and neighouring county cases on the incedence rate of current county and also to understand outliers
 - The packages used for visualization are __matplotlib, bokeh, seaborn, plotly and ipywidgets__ 
 - Several Statistical models were built including __Random Forest, Zero-Inflated Poisson Regression, Long Short Term Memory networks__ and __Seasonal ARIMA__ to forecast the WNV IR and the __LSTM model__ gave us an accuracy of more than __75%__
+
 ---
 ### [2. Predicting mortality by Acute Lower Respiratory Diseases in Americas](https://github.com/vpb2/PracticalHealthData)
 - The main aim of this project was to understand the patterns of mortality caused by Acute Lower Respiratory Diseases and to predict the mortality rate for the year 2020 in Americas
@@ -27,6 +28,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 #### Forecast example for Canada: 
 ![Predictions for Canada](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
 ---
+
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
 - The main aim of this project was to predict which movie will win an Oscar in a particular year based on other awards it has won
 - The data from online movie databases like iMDb, rotten tomato, and movielens was downloaded and processed. Data for missing points was webscraped and cleaned for modelling using python scripts
