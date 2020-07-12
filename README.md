@@ -21,7 +21,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Created __Auto-ARIMA__ model to check the time-series validity of the indicators
 - Built __Vector Auto-Regression__ model to perform Multivariate Time Series forecasting and predicted the death count for countries in the American continent with a __Mean Absolute Percentage Error of 0.0822__ 
 
-![Mortality per year](/images/PHD2.png "Mortality per year")
+![](/images/PHD2.png "Mortality per year")
 ---
 ![Indicators for Mortality](/images/PHD3.png "Indicators for Mortality")
 ---
