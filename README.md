@@ -26,7 +26,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 ![Indicators for Mortality](/images/PHD3.png)
 ---
 #### Forecast example for Canada: 
-![Predictions for Canada](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png )
+![Predictions for Canada](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png)
 ---
 
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
