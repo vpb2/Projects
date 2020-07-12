@@ -20,12 +20,12 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Created __Auto-ARIMA__ model to check the time-series validity of the indicators
 - Built __Vector Auto-Regression__ model to perform Multivariate Time Series forecasting and predicted the death count for countries in the American continent with a __Mean Absolute Percentage Error of 0.0822__ 
 
-![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD2.png "Mortality per year")
+![Mortality per year](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD2.png "Mortality per year")
 ---
-![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD3.png "Indicators for Mortality")
+![Indicators for Mortality](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD3.png "Indicators for Mortality")
 ---
 #### Forecast example for Canada: 
-![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
+![Predictions for Canada](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
 ---
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
 - The main aim of this project was to predict which movie will win an Oscar in a particular year based on other awards it has won
@@ -33,9 +33,9 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Exploratory analysis was conducted using python and juputer notebooks to identify trends and outliers, detect anomalies and understand the relationship between other awards, critic and user ratings with the movie winning the Oscar
 - Implemented __Logistic Regression, Naive Bayes, Decision Trees__ and __Random Forest__ algorithms using sklearn package to compare different models and achieved an accuracy of __90%__ in resulting predictions
 
-![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc1.png "IMDB heatmap")
+![IMDB heatmap](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc1.png "IMDB heatmap")
 ---
-![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc2.png "Oscar win and loss grouped by Genre")
+![Oscar win and loss grouped by Genre](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc2.png "Oscar win and loss grouped by Genre")
 ---
 
 ### [4. Monte Carlo Simulation of Air Ambulance Requirements](https://github.com/vpb2/IS590PR-Simulation_of_Air_Ambulance_Requirements)
