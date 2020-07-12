@@ -24,7 +24,7 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 ---
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/PHD3.png "Indicators for Mortality")
 ---
-Forecast example for Canada: 
+#### Forecast example for Canada: 
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
 ---
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
