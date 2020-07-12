@@ -23,10 +23,10 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 
 ![](/images/PHD2.png "Mortality per year")
 ---
-![Indicators for Mortality](/images/PHD3.png "Indicators for Mortality")
+![](/images/PHD3.png "Indicators for Mortality")
 ---
 #### Forecast example for Canada: 
-![Predictions for Canada](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
+![](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
 ---
 
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
@@ -35,8 +35,8 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Exploratory analysis was conducted using python and juputer notebooks to identify trends and outliers, detect anomalies and understand the relationship between other awards, critic and user ratings with the movie winning the Oscar
 - Implemented __Logistic Regression, Naive Bayes, Decision Trees__ and __Random Forest__ algorithms using sklearn package to compare different models and achieved an accuracy of __90%__ in resulting predictions
 
-![IMDB heatmap](/images/Osc1.png "IMDB heatmap")
+![](/images/Osc1.png "IMDB heatmap")
 ---
-![Oscar win and loss grouped by Genre](/images/Osc2.png "Oscar win and loss grouped by Genre")
+![](/images/Osc2.png "Oscar win and loss grouped by Genre")
 ---
 
