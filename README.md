@@ -28,9 +28,15 @@ Forecast example for Canada:
 ![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
 ---
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
-- Aggregated data from multiple sources by web scraping and cleaned the data using OpenRefine
-- Performed exploratory analysis to verify expected relationships, identify patterns and outliers
-- Implemented Logistic Regression, Naive Bayes, Decision Trees and Random Forests algorithms to compare different models and to achieve an accuracy of 90% in predictions using sklearn package
+- The main aim of this project was to predict which movie will win an Oscar in a particular year based on other awards it has won
+- The data from online movie databases like iMDb, rotten tomato, and movielens was downloaded and processed. Data for missing points was webscraped and cleaned for modelling using python scripts
+- Exploratory analysis was conducted using python and juputer notebooks to identify trends and outliers, detect anomalies and understand the relationship between other awards, critic and user ratings with the movie winning the Oscar
+- Implemented Logistic Regression, Naive Bayes, Decision Trees and Random Forests algorithms using sklearn package to compare different models and achieved an accuracy of 90% in resulting predictions
+
+![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc1.png "IMDB heatmap")
+---
+![alt text](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc2.png "Oscar win and loss grouped by Genre")
+---
 
 ### [4. Monte Carlo Simulation of Air Ambulance Requirements](https://github.com/vpb2/IS590PR-Simulation_of_Air_Ambulance_Requirements)
 - Implemented python scripts to perform Monte Carlo Simulation on self-generated Helicopter data and generate the optimal Helicopter as result
