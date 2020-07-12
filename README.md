@@ -21,12 +21,12 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Created __Auto-ARIMA__ model to check the time-series validity of the indicators
 - Built __Vector Auto-Regression__ model to perform Multivariate Time Series forecasting and predicted the death count for countries in the American continent with a __Mean Absolute Percentage Error of 0.0822__ 
 
-![](/images/PHD2.png)
+![Mortality per year](/images/PHD2.png)
 ---
-![](/images/PHD3.png "Indicators for Mortality")
+![Indicators for Mortality](/images/PHD3.png)
 ---
 #### Forecast example for Canada: 
-![](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png "Predictions for Canada")
+![Predictions for Canada](/images/Screen%20Shot%202020-07-11%20at%202.09.23%20PM.png )
 ---
 
 ### [3. Oscar predictions](https://github.com/vpb2/Machine_Learning_Oscars)
@@ -35,8 +35,8 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 - Exploratory analysis was conducted using python and juputer notebooks to identify trends and outliers, detect anomalies and understand the relationship between other awards, critic and user ratings with the movie winning the Oscar
 - Implemented __Logistic Regression, Naive Bayes, Decision Trees__ and __Random Forest__ algorithms using sklearn package to compare different models and achieved an accuracy of __90%__ in resulting predictions
 
-![](/images/Osc1.png "IMDB heatmap")
+![IMDB heatmap](/images/Osc1.png)
 ---
-![](/images/Osc2.png "Oscar win and loss grouped by Genre")
+![Oscar win and loss grouped by Genre](/images/Osc2.png)
 ---
 
