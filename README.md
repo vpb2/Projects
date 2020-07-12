@@ -38,6 +38,3 @@ A data nerd and Machine Learning enthusiast with proven abilities to apply stati
 ![Oscar win and loss grouped by Genre](https://github.com/vpb2/Vinu_Portfolio/blob/master/images/Osc2.png "Oscar win and loss grouped by Genre")
 ---
 
-### [4. Monte Carlo Simulation of Air Ambulance Requirements](https://github.com/vpb2/IS590PR-Simulation_of_Air_Ambulance_Requirements)
-- Implemented python scripts to perform Monte Carlo Simulation on self-generated Helicopter data and generate the optimal Helicopter as result
-- An appropriate helicopter is selected to perform the rescue operation based on calculated least rescue time
