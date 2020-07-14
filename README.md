@@ -1,7 +1,3 @@
-# Vinu Prasad Bhambore
-
-A data nerd and Machine Learning enthusiast with proven abilities to apply statistical, programming, analytical, and research skills to convert ideas into data-driven results using Data Science methods. 
-
 ## Projects
 
 ### [1. West Nile Virus incidence rate prediction across US](https://github.com/ncsa/CPRHD_WNV_GI)
