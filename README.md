@@ -21,7 +21,7 @@
 ---
 ![Indicators for Mortality](/images/PHD3.png)
 ---
-#### Forecast example for Canada: 
+##### Forecast example for Canada: 
 ![Predictions for Canada](/images/PHD4.png)
 ---
 
