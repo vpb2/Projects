@@ -7,7 +7,7 @@
 - The missing data points in Socio-economic features were imputed using __Vector Auto-Regression__ method
 - Exploratory data analysis was conducted to check the effect of Entropy, Cummulative degree days, temporal lag and neighouring county cases on the incedence rate of current county and also to understand outliers
 - The packages used for visualization are __matplotlib, bokeh, seaborn, plotly and ipywidgets__ 
-- Several Statistical models were built including __Random Forest, Zero-Inflated Poisson Regression, Long Short Term Memory networks__ and __Seasonal ARIMA__ to forecast the WNV IR and the __LSTM model__ gave us an accuracy of more than __75%__
+- Several Statistical models were built including __Random Forest, Zero-Inflated Poisson Regression, Long Short Term Memory networks__ and __Seasonal ARIMA__ to forecast the WNV IR and the __LSTM model__ gave us an accuracy of more than __90%__
 
 ---
 ### [2. Predicting mortality by Acute Lower Respiratory Diseases in Americas](https://github.com/vpb2/PracticalHealthData)
